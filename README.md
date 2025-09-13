@@ -1,16 +1,20 @@
-# messageme_app
+# 💬 Chat App
 
-A new Flutter project.
+A real-time chat application built with Flutter and Firebase.  
+This project was a great way to practice **Firebase Authentication** and **Cloud Firestore**.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- User authentication (sign up & login with Firebase Auth)  
+- Real-time messaging with **Cloud Firestore**  
+- Chat UI with message bubbles  
+- Simple and clean design  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
+- Flutter & Dart  
+- Firebase Authentication  
+- Cloud Firestore  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
